@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactmatvideoplayer/static/css/main.f855e6bc.css",
+    "main.js": "/reactmatvideoplayer/static/js/main.39e9b679.js",
+    "index.html": "/reactmatvideoplayer/index.html",
+    "main.f855e6bc.css.map": "/reactmatvideoplayer/static/css/main.f855e6bc.css.map",
+    "main.39e9b679.js.map": "/reactmatvideoplayer/static/js/main.39e9b679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.39e9b679.js"
+  ]
+}
