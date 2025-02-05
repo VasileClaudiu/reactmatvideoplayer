@@ -1,16 +1,42 @@
 {
   "files": {
     "main.css": "/reactmatvideoplayer/static/css/main.f855e6bc.css",
-    "main.js": "/reactmatvideoplayer/static/js/main.f03e6ede.js",
-    "static/media/Petrica-Mitu-Stoian-colaj-sarbe-live.mp4": "/reactmatvideoplayer/static/media/Petrica-Mitu-Stoian-colaj-sarbe-live.cccf50d3b9e5eab1789b.mp4",
-    "static/media/Adrian-Minune--Asa-Sunt-Zilele-Mele--Muzica-Originala.png": "/reactmatvideoplayer/static/media/Adrian-Minune--Asa-Sunt-Zilele-Mele--Muzica-Originala.9b31284f5e23781a233d.png",
+    "main.js": "/reactmatvideoplayer/static/js/main.d9fdff4c.js",
+    "static/media/chunk022.mp4": "/reactmatvideoplayer/static/media/chunk022.c34a115110e25d7d35e7.mp4",
+    "static/media/chunk011.mp4": "/reactmatvideoplayer/static/media/chunk011.131386a14d24deac7d71.mp4",
+    "static/media/chunk010.mp4": "/reactmatvideoplayer/static/media/chunk010.89e5b84d69b4c9f298ee.mp4",
+    "static/media/chunk012.mp4": "/reactmatvideoplayer/static/media/chunk012.1a7504434b170626069f.mp4",
+    "static/media/chunk014.mp4": "/reactmatvideoplayer/static/media/chunk014.8de02f273b9b01c5be93.mp4",
+    "static/media/chunk021.mp4": "/reactmatvideoplayer/static/media/chunk021.20e23569d0bb57dd49e8.mp4",
+    "static/media/chunk018.mp4": "/reactmatvideoplayer/static/media/chunk018.faa2041fae1145dc6e9f.mp4",
+    "static/media/chunk005.mp4": "/reactmatvideoplayer/static/media/chunk005.915dfac37bec8bc503c7.mp4",
+    "static/media/chunk008.mp4": "/reactmatvideoplayer/static/media/chunk008.5e17f20abc4df627d66b.mp4",
+    "static/media/chunk001.mp4": "/reactmatvideoplayer/static/media/chunk001.ac6ec175b27df23a05b8.mp4",
+    "static/media/chunk006.mp4": "/reactmatvideoplayer/static/media/chunk006.13ccca52f4ad48deecc8.mp4",
+    "static/media/chunk000.mp4": "/reactmatvideoplayer/static/media/chunk000.e5b76e87ce3bf837bdf9.mp4",
+    "static/media/chunk004.mp4": "/reactmatvideoplayer/static/media/chunk004.bc735b279ccbc7e3586b.mp4",
+    "static/media/chunk003.mp4": "/reactmatvideoplayer/static/media/chunk003.a08553d5120ed4c64af5.mp4",
+    "static/media/chunk015.mp4": "/reactmatvideoplayer/static/media/chunk015.11bf91c9874716c529b2.mp4",
+    "static/media/chunk017.mp4": "/reactmatvideoplayer/static/media/chunk017.a30a2c931a417bed7bdc.mp4",
+    "static/media/chunk016.mp4": "/reactmatvideoplayer/static/media/chunk016.c75bfbc767748bb44ecc.mp4",
+    "static/media/chunk023.mp4": "/reactmatvideoplayer/static/media/chunk023.4b77aff049e2458cb2bc.mp4",
+    "static/media/chunk020.mp4": "/reactmatvideoplayer/static/media/chunk020.13f8e759ebe607a39448.mp4",
+    "static/media/chunk009.mp4": "/reactmatvideoplayer/static/media/chunk009.c81d2d5840a7ceb5114d.mp4",
+    "static/media/chunk024.mp4": "/reactmatvideoplayer/static/media/chunk024.240c8304211893b68ab5.mp4",
+    "static/media/chunk019.mp4": "/reactmatvideoplayer/static/media/chunk019.ae1a9801923525869a41.mp4",
+    "static/media/chunk007.mp4": "/reactmatvideoplayer/static/media/chunk007.d4d62e445ecc45c52702.mp4",
+    "static/media/chunk002.mp4": "/reactmatvideoplayer/static/media/chunk002.7aaa74ec23445e4c2faa.mp4",
+    "static/media/chunk013.mp4": "/reactmatvideoplayer/static/media/chunk013.e132aa01716b2494fb71.mp4",
+    "static/media/chunk025.mp4": "/reactmatvideoplayer/static/media/chunk025.f251106448e7d05395ac.mp4",
+    "static/media/InTime_2011_sub_ro.vtt": "/reactmatvideoplayer/static/media/InTime_2011_sub_ro.e48cdeb4bde12942946d.vtt",
+    "static/media/InTime_2011.jpg": "/reactmatvideoplayer/static/media/InTime_2011.867178484cef9a69eb2a.jpg",
     "static/media/undraw_profile.svg": "/reactmatvideoplayer/static/media/undraw_profile.28817a9a525894d99d681c82d5f3a257.svg",
     "index.html": "/reactmatvideoplayer/index.html",
     "main.f855e6bc.css.map": "/reactmatvideoplayer/static/css/main.f855e6bc.css.map",
-    "main.f03e6ede.js.map": "/reactmatvideoplayer/static/js/main.f03e6ede.js.map"
+    "main.d9fdff4c.js.map": "/reactmatvideoplayer/static/js/main.d9fdff4c.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f03e6ede.js"
+    "static/js/main.d9fdff4c.js"
   ]
 }
