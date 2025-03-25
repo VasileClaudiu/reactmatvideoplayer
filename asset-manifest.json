@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactmatvideoplayer/static/css/main.6f7b5b15.css",
-    "main.js": "/reactmatvideoplayer/static/js/main.100442dc.js",
+    "main.js": "/reactmatvideoplayer/static/js/main.bfc7527e.js",
     "static/media/chunk022.mp4": "/reactmatvideoplayer/static/media/chunk022.c34a115110e25d7d35e7.mp4",
     "static/media/chunk011.mp4": "/reactmatvideoplayer/static/media/chunk011.131386a14d24deac7d71.mp4",
     "static/media/chunk010.mp4": "/reactmatvideoplayer/static/media/chunk010.89e5b84d69b4c9f298ee.mp4",
@@ -28,16 +28,16 @@
     "static/media/chunk002.mp4": "/reactmatvideoplayer/static/media/chunk002.7aaa74ec23445e4c2faa.mp4",
     "static/media/chunk013.mp4": "/reactmatvideoplayer/static/media/chunk013.e132aa01716b2494fb71.mp4",
     "static/media/chunk025.mp4": "/reactmatvideoplayer/static/media/chunk025.f251106448e7d05395ac.mp4",
-    "static/media/m3uplaylist.m3u8": "/reactmatvideoplayer/static/media/m3uplaylist.1bbf69649f9ab28838c1.m3u8",
+    "static/media/m3uplaylist.m3u8": "/reactmatvideoplayer/static/media/m3uplaylist.c6406d7ee05c3e66d2de.m3u8",
     "static/media/InTime_2011_sub_ro.vtt": "/reactmatvideoplayer/static/media/InTime_2011_sub_ro.e48cdeb4bde12942946d.vtt",
     "static/media/InTime_2011.jpg": "/reactmatvideoplayer/static/media/InTime_2011.867178484cef9a69eb2a.jpg",
     "static/media/undraw_profile.svg": "/reactmatvideoplayer/static/media/undraw_profile.28817a9a525894d99d681c82d5f3a257.svg",
     "index.html": "/reactmatvideoplayer/index.html",
     "main.6f7b5b15.css.map": "/reactmatvideoplayer/static/css/main.6f7b5b15.css.map",
-    "main.100442dc.js.map": "/reactmatvideoplayer/static/js/main.100442dc.js.map"
+    "main.bfc7527e.js.map": "/reactmatvideoplayer/static/js/main.bfc7527e.js.map"
   },
   "entrypoints": [
     "static/css/main.6f7b5b15.css",
-    "static/js/main.100442dc.js"
+    "static/js/main.bfc7527e.js"
   ]
 }
